@@ -1,16 +1,20 @@
-## Hi there 👋
+# José Eduardo Olvera
 
-<!--
-**jose-eduardo-olv/jose-eduardo-olv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** at [M3 Security](https://m3security.mx)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building robust systems and pushing boundaries across the full software stack. I thrive at the intersection of software engineering and security, working with **Java** and **TypeScript** to craft solutions that are both performant and resilient.
+
+### Areas of Focus
+
+- **Integrations** — connecting systems and APIs that were never meant to talk to each other
+- **Security** — secure-by-design architectures and vulnerability analysis
+- **Cloud** — scalable, cloud-native infrastructure and deployments
+- **Reverse Engineering** — understanding how things work at the lowest level
+- **Embedded Systems** — where software meets hardware
+
+---
+
+> *"If it runs, I can read it. If I can read it, I can improve it."*
+
